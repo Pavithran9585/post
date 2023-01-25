@@ -75,7 +75,8 @@ const couponvaild = (req, res) => {
   // const static date,invaild(now,currentdate)
   try {
     ArrayNew.map((check) => {
-      console.log(check.CouponCode,check.Created_On)   
+      console.log(check.CouponCode,check.Created_On)
+      // console.lo 
     
     
     // var date1 = new Date("01-10-2022");
